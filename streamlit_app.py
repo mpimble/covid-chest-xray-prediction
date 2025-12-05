@@ -62,11 +62,6 @@ gdp_df = get_gdp_data()
 # -----------------------------------------------------------------------------
 # Draw the actual page
 
-# Set the title that appears at the top of the page.
-'''
-# Predicting COVID-19 Pneumonia Severity from Chest X-rays
-'''
-
 # Add some spacing
 ''
 ''
