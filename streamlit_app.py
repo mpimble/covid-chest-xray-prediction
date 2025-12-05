@@ -5,8 +5,7 @@ from pathlib import Path
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
-    page_title='GDP dashboard',
-    page_icon=':earth_americas:', # This is an emoji shortcode. Could be a URL too.
+    page_title='Predicting COVID-19 Pneumonia Severity from Chest X-rays',
 )
 
 # -----------------------------------------------------------------------------
@@ -64,11 +63,7 @@ gdp_df = get_gdp_data()
 
 # Set the title that appears at the top of the page.
 '''
-# :earth_americas: GDP dashboard
-
-Browse GDP data from the [World Bank Open Data](https://data.worldbank.org/) website. As you'll
-notice, the data only goes to 2022 right now, and datapoints for certain years are often missing.
-But it's otherwise a great (and did I mention _free_?) source of data.
+Predicting COVID-19 Pneumonia Severity from Chest X-rays
 '''
 
 # Add some spacing
