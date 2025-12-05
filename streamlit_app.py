@@ -61,7 +61,12 @@ gdp_df = get_gdp_data()
 
 # -----------------------------------------------------------------------------
 # Draw the actual page
-
+''
+Our motivation behind the project:
+- During the COVID-19 pandemic, it was important to know how sick a patient is to decide where to send patients for care
+- Manually evaluating severity is time consuming and scores can be inconsistent depending on the expert
+- Automated tools like ML helps doctors make faster decisions
+''
 # Add some spacing
 ''
 ''
