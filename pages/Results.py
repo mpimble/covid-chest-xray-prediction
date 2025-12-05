@@ -5,6 +5,6 @@ st.set_page_config(
 )
 st.title('Predicting COVID-19 Pneumonia Severity from Chest X-rays')
 
-st.markdown("# Results")
-st.write("I'm just adding some text here")
+st.markdown("## Results")
+st.markdown("I'm just adding some text here")
 
