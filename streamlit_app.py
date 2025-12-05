@@ -17,6 +17,8 @@ st.title('Predicting COVID-19 Pneumonia Severity from Chest X-rays')
 # Draw the actual page
 st.write("Michael Pimble, Damla Akdogan, Carrie Wang")
 
+st.image("000001-1.png")
+
 st.markdown("## Our motivation behind the project:\n- During the COVID-19 pandemic, it was important to know how sick a patient is to decide where to send patients for car\n- Manually evaluating severity is time consuming and scores can be inconsistent depending on the expert\n- Automated tools like ML helps doctors make faster decisions")
 
 st.markdown("## Objective- To develop and compare a convolutional neural network (CNN) and a collaboartive filtering (CF) approach for predicting COVID-19 severity from chest X-ray images ")
