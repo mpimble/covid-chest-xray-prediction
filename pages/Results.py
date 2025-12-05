@@ -12,3 +12,5 @@ st.markdown("### Item-Item Collaborative Filtering:\n- Performed better than use
 st.image("data/item_item_opacity_mean.png")
 st.image("data/item_item_geographic_mean.png")
 st.markdown("### Convolutional Neural Network:\n- Opacity predictions more accurate than geographic extent\n- Combined average MAE: 1.63\n- Model shows overfitting (train MAE: 1.25, test MAE: 1.63)")
+st.image("data/cnn_loss.png")
+st.image("data/cnn_pred.png")
