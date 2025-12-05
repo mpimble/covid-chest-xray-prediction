@@ -5,9 +5,9 @@ from pathlib import Path
 
 # Set the title and favicon that appear in the Browser's tab bar.
 st.set_page_config(
-    page_title='Predicting COVID-19 Pneumonia Severity from Chest X-rays',
+    page_title='COVID Chest X-rays',
 )
-st.title('About the Project')
+st.title('Predicting COVID-19 Pneumonia Severity from Chest X-rays')
 
 # -----------------------------------------------------------------------------
 # Declare some useful functions.
